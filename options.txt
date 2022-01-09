@@ -1,0 +1,8 @@
+Puoi compiere le seguenti azioni:
+- premi 1 e poi invio per inviare una stringa di testo al server;
+- premi 2 e poi invio per inviare al server un file di testo da analizzare al server (puoi provare, ad esempio, "dante.txt" o "manzoni.txt", oppure puoi inserire il pathname del file di testo desiderato);
+- premi 3 e poi invio per inviare al server del testo parola per parola;
+- premi 4 e poi invio per ottenere dal server l'istogramma dei caratteri inviati;
+- premi 5 e poi invio per ottenere dal server l'istogramma dei caratteri inviati e poi chiudere la connessione;
+- premi 6 e poi invio per chiudere la connessione senza richiedere l'istogramma;
+- premi 7 e poi invio per rivedere le azioni che puoi compiere.

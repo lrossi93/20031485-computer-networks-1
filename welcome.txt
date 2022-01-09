@@ -1,0 +1,2 @@
+===PROGETTO DI RETI1 DI LORENZO ROSSI - matr. 20031485===
+Benvenuto/a! Questa applicazione permette di inviare del testo da un client ad un server, che memorizzera' i caratteri ricevuti e, se richiesto, creera' un istogramma contenente la distribuzione di tali caratteri.
